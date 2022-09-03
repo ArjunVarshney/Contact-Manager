@@ -14,16 +14,5 @@ In the project, I have use the following technologies or frameworks or npm packa
 
 ## How to start the Application
 
- - Run `npm start` in server-api directory to start the rest api on `http://localhost:3006/contacts`. 
- - Run `npm start` in contact-app directory to start the react application on `http://localhost:3000/`
-
-## Folder structure
-
-   ├───contact-app
-   │   ├───node_modules
-   │   ├───public
-   │   └───src
-   │       ├───api
-   │       └───components
-   └───server-api
-       └───node_modules
+ - Run `npm i` & `npm start` in server-api directory to start the rest api on `http://localhost:3006/contacts`. 
+ - Run `npm i` & `npm start` in contact-app directory to start the react application on `http://localhost:3000/`
